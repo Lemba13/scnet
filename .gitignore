@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.env
+.env.*
+.build/
+dist/
+eggs/
+venv/
+pip-wheel-metadata/
+node_modules/
+
+# Unit test / coverage reports
+.coverage
+.tox
+htmlcov/
+.coverage.*
+.cache
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*~
+*.ipynb
